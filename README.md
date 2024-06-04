@@ -1,8 +1,11 @@
-## Hi there 👋
+- 👋 Hi, I’m Carlos Gordon.
+- 👀 I'm a professor of Multivariable Calculus and Optimization at IE University.
+
 
 <!--
 **CarlosGordon/CarlosGordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Meter en que estoy trabajando, en que investigando y como contactarme.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
